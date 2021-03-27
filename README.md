@@ -1,5 +1,7 @@
 # Logistic-Regression
+
 I. Data Preparation
+
 -Include all the packages that are needed for the model.
 -Access the dataset from the drive.
 -Check the dataset.
