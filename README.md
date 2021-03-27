@@ -3,19 +3,25 @@
 I. Data Preparation
 
 -Include all the packages that are needed for the model.
+
 -Access the dataset from the drive.
+
 -Check the dataset.
+
 -Slice data to prepare for the model.
 
 II. Building Logistic Regression Model
 
 -Apply the prepared data into the model.
+
 -Check the logistic regression model score.
 
 III. Feature Importance
 
 -Rank the features based on the coefficients.
+
 IV. Evaluation
+
 -Use AUC score and ROC curve to evaluate the model.
 
 V. Conclusion
